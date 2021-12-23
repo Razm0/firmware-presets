@@ -126,6 +126,7 @@
       "Mark Spatz (UAV Tech)",
       "MinChan Kim",
       "NemesisXB",
+      "Razm0",
       "SupaflyFPV",
       "ctzsnooze",
       "sugarK"
@@ -171,6 +172,7 @@
       "OSD",
       "OpenRacer",
       "RPM",
+      "Razm0",
       "SA 2.0",
       "SA 2.0 lite",
       "SA 2.1",
@@ -1375,13 +1377,8 @@
     },
     {
       "fullPath": "presets/4.3/rates/Razm0_freestyle.txt",
-      "hash": "908c21768bc524ed552957f1aafb41c9b94b32c29e5c617c578993b44a42e6c4",
-      "options": [
-        {
-          "name": "Actual rates analogue",
-          "checked": false
-        }
-      ],
+      "hash": "a54cf4d53d1f3575824b16916c42e4458d79c85528a858c047b03777be4e38e8",
+      "options": [],
       "title": "Razm0 freestyle rates",
       "firmware_version": [
         "4.3"
@@ -1390,18 +1387,14 @@
       "status": "COMMUNITY",
       "keywords": [
         "racing",
-        "Headsup",
-        "533",
-        "five33",
+        "freestyle",
         "rates",
-        "MultiGP"
+        "Razm0"
       ],
-      "author": "Evan Turner (Headsup)",
+      "author": "Razm0",
       "description": [
-        "Famous 533 racing rates by Headsup - Evan Turner.",
-        "Betaflight type of rates with 533 degrees/sec max on all three axes.",
-        "Evan Turner - MultiGP Champion 2021, 2019 and 2018. MultiGP Internation Open Champion 2021 and 2021 DRL pilot.",
-        "Optional checkbox provides almost identical rates, but with the type = ACTUAL."
+        "",
+        ""
       ],
       "discussion": "https://github.com/betaflight/firmware-presets/pull/92/",
       "include": [
