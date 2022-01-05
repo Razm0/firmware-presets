@@ -1402,6 +1402,32 @@
       ]
     },
     {
+      "fullPath": "presets/4.3/rates/Razm0_race.txt",
+      "hash": "520bc4ff529e4f5ec7ce1c98a90dce3c4ecf566d6847957213276988e90eec3c",
+      "options": [],
+      "title": "Razm0 race rates",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "racing",
+        "freestyle",
+        "rates",
+        "Razm0"
+      ],
+      "author": "Razm0",
+      "description": [
+        "",
+        ""
+      ],
+      "discussion": "https://github.com/betaflight/firmware-presets/pull/92/",
+      "include": [
+        "presets/4.3/rates/defaults.txt"
+      ]
+    },
+    {
       "fullPath": "presets/4.3/rates/UAV_tech.txt",
       "hash": "b446efe96a216241890e10e0308030dd02b4ca975df3d50ba6723039768c343e",
       "options": [],
